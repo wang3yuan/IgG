@@ -1,3 +1,11 @@
+#MS files
+*.raw
+*.mzXML
+*.mzML
+/Raw/
+/mzXML/
+/mzML/
+
 # History files
 .Rhistory
 .Rapp.history
